@@ -1,12 +1,11 @@
-![Baseball Image](https://github.com/jessfett/ETL-Project-1/blob/main/Images/jose-morales-3k_FcShH0jY-unsplash.jpg
-)
+![Baseball Image](https://github.com/jessfett/ETL-Project-1/blob/main/Images/jose-morales-3k_FcShH0jY-unsplash.jpg)
 
-#Project: MLB Payroll vs. MLB Outcomes</br></br>
+# Project: MLB Payroll vs. MLB Outcomes</br></br>
 
-The link below will take you to the google slide presenation for my ETL-Project-1 (MLB Payroll vs. MLB Outcome)
+The link below will take you to the google slide presenation for my ETL-Project-1 (MLB Payroll vs. MLB Outcome)</br></br>
 [Project Presentation](https://docs.google.com/presentation/d/14S_7Sir97bALFzHrfzwbBoxfyIS9VENwlw5ANf3TPEw/edit?usp=sharing)
 
-##Getting Started
+## Getting Started
 
 Gathering Data
 
