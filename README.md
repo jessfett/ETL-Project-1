@@ -7,29 +7,29 @@ The link below will take you to the google slide presenation for my ETL-Project-
 
 ## Getting Started
 
-Gathering Data
+### Gathering Data</br>
 
-During our search for information, we found two separate sources including Kaggle and Data World
+I found two sources that would allow me to gather the neccessary data. 
 
-NBA Players statistics since 1950 https://www.kaggle.com/drgilermo/nba-players-stats
-NBA team win and Players from https://data.world/jservidio/nba-team-records-and-player-stats/workspace/file?filename=Players.csv https://data.world/jservidio/nba-team-records-and-player-stats/workspace/file?filename=Seasons_Stats.csv
-Putting the Data Together
+- 2019 MLB Team Payroll  - Web Scrape - [CBS Sports](https://www.cbssports.com/mlb/news/2019-mlb-opening-day-payrolls-red-sox-cubs-yankees-open-season-above-competitive-balance-tax-threshold/)</br>
+- MLB Statistics Database - CSV - [Baseball Databank](https://github.com/chadwickbureau/baseballdatabank)</br>
+</br></br>
+
+### Putting the Data Together</br>
 
 After collecting the desired data from both sources, the next step was to use Jupyter Notebook to manipulate and join the data sets together into one database.
 
-steps within the Jupyter Notebook included importing files, reading files, merging tables, changing column names, removing some columns, and changing all column names to all lower case letters in order to smoothly connect with PostgreSQL.
-Importing to PostgreSQL (pgAdmin)
+Within the Jupyter Notebook file the transforming of data included importing CSV, reading CSV, Scraping the CBS Sports Webpage Using BeautifulSoup, merging tables, changing column names, removing some columns, and changing all column names to all lower case letters in order to smoothly connect with PostgreSQL.
 
-Once the tables were created, we finally created a Database and Table within pgAdmin and inserted each column name and its datatype.
+### Importing to PostgreSQL (pgAdmin)
 
-Finally
+I created an ERD using http://quickdatabasediagrams.com, which can be viewed below. </br></br>
 
-The data was inserted from Jupyter to AWS RDS through the endpoint , created an engine, opened the table and imported the data . And the link to the website is found below . https://jacob-servidio.github.io/CWRU-2020-ETL-Project-2/
+![ERD](https://github.com/jessfett/ETL-Project-1/blob/main/Images/Screen%20Shot%202020-11-11%20at%2010.13.33%20PM.png)
 
-Authors
 
-Jermaine Coleman
-Jacob Servido
-Ravi Patel
-Roshini Jayantha
-Copyright © Jermaine Coleman| Roshini Jayantha| Jacob Servido| Ravindra Patel 2020
+In pgAdmin, the individual tables were created and the subset dataframes were loaded in. This allows a user to create unique queries to compare and create subsets of data that can be used to find correlations between MLB Team Payrolls and their game statistics, outcomes, postseason accolades, and more.
+
+### Authors
+
+Jess Fett
