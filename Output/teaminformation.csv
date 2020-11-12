@@ -1,0 +1,31 @@
+teamid_pk,teamname,park,attendance,league
+18,Arizona Diamondbacks,Chase Field,2135510.0,NL
+17,Atlanta Braves,SunTrust Park,2655100.0,NL
+27,Baltimore Orioles,Oriole Park at Camden Yards,1307807.0,AL
+1,Boston Red Sox,Fenway Park II,2924627.0,AL
+2,Chicago Cubs,Wrigley Field,3094865.0,NL
+22,Chicago White Sox,Guaranteed Rate Field,1649775.0,AL
+15,Cincinnati Reds,Great American Ball Park,1808685.0,NL
+19,Cleveland Indians,Progressive Field,1738642.0,AL
+11,Colorado Rockies,Coors Field,2993244.0,NL
+23,Detroit Tigers,Comerica Park,1501430.0,AL
+5,Houston Astros,Minute Maid Park,2857367.0,AL
+25,Kansas City Royals,Kauffman Stadium,1479659.0,AL
+7,Los Angeles Angels,Angel Stadium of Anaheim,3019012.0,AL
+9,Los Angeles Dodgers,Dodger Stadium,3974309.0,NL
+30,Miami Marlins,Marlins Park,811302.0,NL
+14,Milwaukee Brewers,Miller Park,2923333.0,NL
+16,Minnesota Twins,Target Field,2294152.0,AL
+8,New York Mets,Citi Field,2442532.0,NL
+3,New York Yankees,Yankee Stadium III,3304404.0,AL
+21,Oakland Athletics,O.co Coliseum,1662211.0,AL
+6,Philadelphia Phillies,Citizens Bank Park,2727421.0,NL
+29,Pittsburgh Pirates,PNC Park,1491439.0,NL
+24,San Diego Padres,Petco Park,2396399.0,NL
+12,San Francisco Giants,Oracle Park,2707760.0,NL
+13,Seattle Mariners,T-Mobile Park,1791863.0,AL
+10,St. Louis Cardinals,Busch Stadium III,3480393.0,NL
+26,Tampa Bay Rays,Tropicana Field,1178735.0,AL
+20,Texas Rangers,Globe Life Park in Arlington,2132994.0,AL
+28,Toronto Blue Jays,Rogers Centre,1750114.0,AL
+4,Washington Nationals,Nationals Park,2259781.0,NL
